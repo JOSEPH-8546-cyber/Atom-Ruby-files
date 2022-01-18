@@ -1,2 +1,2 @@
-# Kotlin-Files
-Practice with Kotlin
+# Atom-Ruby files
+Practice Ruby
